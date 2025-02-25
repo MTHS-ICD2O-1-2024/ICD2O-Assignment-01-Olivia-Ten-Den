@@ -17,7 +17,6 @@
   box-sizing: border-box;
 }
 
-
 .mdl-layout__content {
   padding-left: 5px;
   padding-right: 5px;
@@ -51,7 +50,6 @@ p {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
 }
-
 
 body {
   background-color: rgb(42, 158, 145);
