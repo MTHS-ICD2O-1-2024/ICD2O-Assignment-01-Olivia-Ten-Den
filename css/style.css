@@ -1,4 +1,60 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Olivia Ten Den
+* Created on: Feb 25
 * This file contains the CSS for index.html
 */
+.mdl-layout__header-row {
+  padding: 10px;
+}
+
+.mdl-layout-title {
+  display: block;
+  position: relative;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-size: 50px;
+  line-height: 1;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+  box-sizing: border-box;
+}
+
+
+.mdl-layout__content {
+  padding-left: 40pt;
+  padding-right: 20pt;
+  padding-top: 25pt;
+}
+
+.mdl-textfield__error {
+  color: rgb(52, 5, 64);
+}
+
+.page-content {
+  color: rgb(63, 0, 114);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+}
+
+h1 {
+  color: rgb(14, 11, 110);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 40px;
+}
+
+h2 {
+  color: rgb(14, 11, 110);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 32px;
+}
+
+p {
+  color: rgb(0, 0, 0);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+
+body {
+  background-color: rgb(42, 158, 145);
+  justify-content: left;
+  padding: 20px;
+}
